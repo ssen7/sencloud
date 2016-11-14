@@ -1,6 +1,6 @@
 configuration:  
   projectName: spring-cloud-config-demo
 server:
-  port: 8000
+  port: 8090
 message:
   greeting: Hello from the configuration!
